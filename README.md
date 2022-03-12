@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EXPORTER-DEV
-- 👀 I’m interested in web optimization & security, web scraping, bot softwear development and data science.
-- 🌱 I’m currently learning a couple UI frameworks.
-- 📦 Here you can find some my public works.
+- 👀 I’m interested in backend applications (and its security, optimization), web scraping, bot softwear, mobile app development.
+- 📦 Here you can find some my public projects.
+- 📫 How to reach me: [Telegram](https://t.me/exporter_dev)
 <!--- - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ...--->
 
 <!---
