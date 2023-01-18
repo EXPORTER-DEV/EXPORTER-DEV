@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EXPORTER-DEV
-- 👀 I’m interested in backend applications (and its security, optimization), web scraping, bot softwear, mobile app development.
+- 👀 Currently interested in Golang, TypeScript and bot softwear.
 - 📦 Here you can find some my public projects.
 - 📫 How to reach me: [Telegram](https://t.me/exporter_dev)
 <!--- - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ...--->
